@@ -8,6 +8,7 @@ Y: -0.50
 Z: 0.65
 ```
 ## Impression
+**In the game:**
 https://youtu.be/H-5tSNQWBHs?si=iQ8HxJnbAEFRv7os
 
 ## Credits
