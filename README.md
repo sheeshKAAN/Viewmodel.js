@@ -1,5 +1,5 @@
 # Viewmodel.js
-It is the script file used to adjust the weapon position, it works on userscript source file.
+It is the script file used to adjust the weapon position, it works on userscript source file. You can change xyz coordinates with the help of [vscode](https://code.visualstudio.com/) to adjust your own weapon position.
 ## Settings
 
 ```js
