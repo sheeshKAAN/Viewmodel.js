@@ -1,11 +1,11 @@
 # Viewmodel.js
 It works on userscript source file.
-### Settings
+## Settings
 
 ```js
 X: 0.11
 Y: -0.50
 Z: 0.65
 ```
-# Credits
+## Credits
 **Developed in collaboration by:** @Capta1nCool and @sheeshKAAN
