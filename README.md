@@ -1,5 +1,5 @@
 # Viewmodel.js
-It works on userscript source file.
+It is the script file used to adjust the weapon position, it works on userscript source file.
 ## Settings
 
 ```js
