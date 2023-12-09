@@ -2,8 +2,10 @@
 It works on userscript source file.
 ### Settings
 
-`X: 0.11
+`
+X: 0.11
 
 Y: -0.50
 
-Z: 0.65`
+Z: 0.65
+`
