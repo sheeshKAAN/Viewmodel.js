@@ -15,4 +15,4 @@ https://youtu.be/H-5tSNQWBHs?si=iQ8HxJnbAEFRv7os
 **Developed in collaboration by:** **[@Capta1nCool](https://github.com/Capta1nCool)** and **[@sheeshKAAN](https://github.com/sheeshKAAN)**
 
 ## Was used in this project
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)**Visual Studio Code** and [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)**JavaScript**
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
