@@ -1,4 +1,4 @@
-# Viewmodel.js [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+# Viewmodel.js
 It is the script file used to adjust the weapon position, it works on userscript source file.
 ## Settings
 
@@ -15,3 +15,4 @@ https://youtu.be/H-5tSNQWBHs?si=iQ8HxJnbAEFRv7os
 **Developed in collaboration by:** **[@Capta1nCool](https://github.com/Capta1nCool)** and **[@sheeshKAAN](https://github.com/sheeshKAAN)**
 
 ## Was used in this project
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
