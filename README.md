@@ -3,9 +3,9 @@ It is the script file used to adjust the weapon position, it works on userscript
 ## Settings
 
 ```js
-X: 0.11
-Y: -0.50
-Z: 0.65
+X: 0.45
+Y: -0.25
+Z: 0.32
 ```
 ## Impression
 **In the game:**
